@@ -116,7 +116,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/xSTslQy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<h2>Lessons Learned</h2>
 
 3) As a Help Desk Agent (John), review the ticket's properties, including:
 
@@ -181,6 +180,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/xSTslQy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+  <h2>Lessons Learned</h2>
+  
 The protocols for how tickets are managed can differ depending on the work environment. There may be a quota for how many tickets need to be resolved within a certain time frame and certain tickets will have to be prioritized depending on the situation. I have built osTicket from scratch and was able to understand how tickets work in an IT position.
 </p>
 <br />
