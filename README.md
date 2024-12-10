@@ -29,6 +29,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+
+In this lab, you will log in as an admin to:
+
+- Create tickets as end users, observe all ticket properties, and respond to them as help desk professionals.
+- Change the SysAdmins department to a top-level department.
+- Permanently delete the Maintenance department (do not archive it).
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
