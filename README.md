@@ -163,7 +163,7 @@ Subject: Accounting Department Needs Adobe Upgrade, Broken
 <img src="https://imgur.com/BrmPUn8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5) As an end-user, create the following ticket:
+6) As an end-user, create the following ticket:
 Subject: CFO’s laptop will no longer turn on
 <p>
 <img src="https://imgur.com/T6mOrIa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
