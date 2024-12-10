@@ -169,6 +169,48 @@ Subject: CFO’s laptop will no longer turn on
 <img src="https://imgur.com/T6mOrIa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+7) As a Help Desk Agent (John):
+
+- Observe the ticket's properties:
+- Priority
+- Department
+- SLA
+- Assigned To
+- Update the ticket properties to:
+- Priority: Sev-B (4 hours, 24/7)
+
+* Make sure John has access to the ticket that Karen "which is the end user" has created.
+<p>
+<img src="https://imgur.com/5p1Ou4o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+* Make sure you change the priority level from "Normal" to "Emergency".
+  <p>
+<img src="https://imgur.com/HwPJnQV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  * John has decided to take the ticket
+ <p>
+<img src="https://imgur.com/sCofxyK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+* Change the SLA level to "Sev-B"
+  <p>
+<img src="https://imgur.com/I0ZiHvo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+* John "post reply"
+<p>
+<img src="https://imgur.com/W8bE4IB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+* This ticket is "resolved" by "John".
+<p>
+<img src="https://imgur.com/HRQtRj4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
   <h2>Lessons Learned</h2>
   
 The protocols for how tickets are managed can differ depending on the work environment. There may be a quota for how many tickets need to be resolved within a certain time frame and certain tickets will have to be prioritized depending on the situation. I have built osTicket from scratch and was able to understand how tickets work in an IT position.
