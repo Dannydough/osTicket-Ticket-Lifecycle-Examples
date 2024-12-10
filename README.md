@@ -129,6 +129,9 @@ Subject: Accounting Department Needs Adobe Upgrade, Broken
 - Department
 - SLA
 - Assigned To
+- Update the ticket properties as follows:
+- Priority: Sev-B (4 hours, 24/7)
+- Department: Support
 
 * Make sure John has access to the ticket that Ken "which is the end user" has created.
 <p>
