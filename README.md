@@ -18,7 +18,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro </b> (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -212,7 +212,7 @@ Subject: CFO’s laptop will no longer turn on
 
   <h2>Lessons Learned</h2>
   
-The protocols for managing tickets can vary based on the work environment. There may be specific quotas for resolving a set number of tickets within a given timeframe, and certain tickets may need to be prioritized based on urgency. I have built osTicket from the ground up, which has given me a solid understanding of ticketing systems in an IT role.
+*The protocols for managing tickets can vary based on the work environment. There may be specific quotas for resolving a set number of tickets within a given timeframe, and certain tickets may need to be prioritized based on urgency. I have built osTicket from the ground up, which has given me a solid understanding of ticketing systems in an IT role.*
 
 </p>
 <br />
