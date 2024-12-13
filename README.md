@@ -212,6 +212,7 @@ Subject: CFO’s laptop will no longer turn on
 
   <h2>Lessons Learned</h2>
   
-The protocols for how tickets are managed can differ depending on the work environment. There may be a quota for how many tickets need to be resolved within a certain time frame and certain tickets will have to be prioritized depending on the situation. I have built osTicket from scratch and was able to understand how tickets work in an IT position.
+The protocols for managing tickets can vary based on the work environment. There may be specific quotas for resolving a set number of tickets within a given timeframe, and certain tickets may need to be prioritized based on urgency. I have built osTicket from the ground up, which has given me a solid understanding of ticketing systems in an IT role.
+
 </p>
 <br />
