@@ -210,7 +210,7 @@ Subject: CFO’s laptop will no longer turn on
 </p>
 <p>
 
-  <h2>Lessons Learned</h2>
+  <h2>osTicket Lifecycle Lessons Learned</h2>
   
 *The protocols for managing tickets can vary based on the work environment. There may be specific quotas for resolving a set number of tickets within a given timeframe, and certain tickets may need to be prioritized based on urgency. I have built osTicket from the ground up, which has given me a solid understanding of ticketing systems in an IT role.*
 
