@@ -61,57 +61,57 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Assigned To
 </p>
 <br />
-* Make sure John has access to the ticket that Karen "which is the end user" has created.
+- Make sure John has access to the ticket that Karen "which is the end user" has created.
 <p>
 <img src="https://imgur.com/nijRhmy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-*Change the SLA plan to "Sev-A" as seen in the image.
+- Change the SLA plan to "Sev-A" as seen in the image.
   <p>
 <img src="https://imgur.com/liOhqpk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  * Update the "Help Topic" to give a more exact definition that the end user aka "Karen" did not do.
+- Update the "Help Topic" to give a more exact definition that the end user aka "Karen" did not do.
  <p>
 <img src="https://imgur.com/oHI9qb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-*Assign the ticket to the "Online Banking" Team.
+- Assign the ticket to the "Online Banking" Team.
   <p>
 <img src="https://imgur.com/UkBHzjl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-*Log in as Jane and confirm that she is part of the Online Banking team, enabling her to view and edit the ticket.
+- Log in as Jane and confirm that she is part of the Online Banking team, enabling her to view and edit the ticket.
 <p>
 <img src="https://imgur.com/kbFDyfn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* Have Jane assign this ticket to herself
+- Have Jane assign this ticket to herself
 <p>
 <img src="https://imgur.com/5xOnheV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* Jane is submitting the communication via "post reply" "INTITAL"
+- Jane is submitting the communication via "post reply" "INTITAL"
 <p>
 <img src="https://imgur.com/grj4yEl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* Jane has inputted the "RESULTS"
+- Jane has inputted the "RESULTS"
 <p>
 <img src="https://imgur.com/X1jN5hl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* You can see the full thread from the tickets
+- You can see the full thread from the tickets
 <p>
 <img src="https://imgur.com/2dVqTVl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* I suggest updating the priority to "Emergency" from the beginning.
+- I suggest updating the priority to "Emergency" from the beginning.
   <p>
 <img src="https://imgur.com/Ujzn9QP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- * The ticket has been resolved
+ - The ticket has been resolved
   <p>
 <img src="https://imgur.com/xSTslQy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -132,33 +132,32 @@ Subject: Accounting Department Needs Adobe Upgrade, Broken
 - Update the ticket properties as follows:
 - Priority: Sev-B (4 hours, 24/7)
 - Department: Support
-
-* Make sure John has access to the ticket that Ken "which is the end user" has created.
+- Make sure John has access to the ticket that Ken "which is the end user" has created.
 <p>
 <img src="https://imgur.com/owpKIMq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-*Change the SLA plan to "Sev-C as seen in the image.
+- Change the SLA plan to "Sev-C as seen in the image.
   <p>
 <img src="https://imgur.com/3XsrnUk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  * John has decided to take the ticket
+- John has decided to take the ticket
  <p>
 <img src="https://imgur.com/sCofxyK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* John "post reply"
+- John "post reply"
   <p>
 <img src="https://imgur.com/sxg0vXE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* John "post reply' "Results"
+- John "post reply' "Results"
 <p>
 <img src="https://imgur.com/IrTeR0b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* The ticket has been "RESOLVED"
+- The ticket has been "RESOLVED"
 <p>
 <img src="https://imgur.com/BrmPUn8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -179,33 +178,33 @@ Subject: CFO’s laptop will no longer turn on
 - Assigned To
 - Update the ticket properties to:
 - Priority: Sev-B (4 hours, 24/7)
-
-* Make sure John has access to the ticket that Karen "which is the end user" has created.
+  
+- Make sure John has access to the ticket that Karen "which is the end user" has created.
 <p>
 <img src="https://imgur.com/5p1Ou4o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* Make sure you change the priority level from "Normal" to "Emergency".
+- Make sure you change the priority level from "Normal" to "Emergency".
   <p>
 <img src="https://imgur.com/HwPJnQV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  * John has decided to take the ticket
+- John has decided to take the ticket
  <p>
 <img src="https://imgur.com/sCofxyK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* Change the SLA level to "Sev-B"
+- Change the SLA level to "Sev-B"
   <p>
 <img src="https://imgur.com/I0ZiHvo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* John "post reply"
+- John "post reply"
 <p>
 <img src="https://imgur.com/W8bE4IB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-* This ticket is "resolved" by "John".
+- This ticket is "resolved" by "John".
 <p>
 <img src="https://imgur.com/HRQtRj4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
